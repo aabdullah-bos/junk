@@ -1,0 +1,12 @@
+revision: 1
+last_updated: 2014-08-26T20:34:00Z
+updater: aabdullah@cargometrics.com
+critical_things:
+    - A
+    - B
+    - C
+all_things:
+    - A
+    - B
+    - C
+    - D
